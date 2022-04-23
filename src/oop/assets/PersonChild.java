@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 
 public class PersonChild extends Person {
     // determine which one is default constructor

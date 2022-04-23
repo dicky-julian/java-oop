@@ -1,5 +1,5 @@
-package utils;
-import assets.*;
+package oop.utils;
+import oop.assets.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

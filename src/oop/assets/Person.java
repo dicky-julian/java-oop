@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 
 @PersonAnnotation(name="person")
 public class Person extends PersonAbstract {

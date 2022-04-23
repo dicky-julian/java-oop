@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 import java.lang.annotation.*;
 
 @Target(value = { ElementType.TYPE })

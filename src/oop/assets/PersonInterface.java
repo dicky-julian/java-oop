@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 
 public interface PersonInterface {
     // function as default will determine as public abstract

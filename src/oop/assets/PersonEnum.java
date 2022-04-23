@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 
 public enum PersonEnum {
     ASSISTANT("Assistant"),

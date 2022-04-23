@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 
 public class PersonRuntimeException extends RuntimeException {
     public PersonRuntimeException(String message) {

@@ -1,6 +1,8 @@
-import assets.Person;
-import assets.PersonChild;
-import utils.Validate;
+package oop;
+
+import oop.assets.Person;
+import oop.assets.PersonChild;
+import oop.utils.Validate;
 
 public class OOP {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package assets;
+package oop.assets;
 
 public abstract class PersonAbstract implements PersonInterface {
     public String name, address;
